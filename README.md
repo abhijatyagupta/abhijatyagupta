@@ -5,7 +5,7 @@
   <li>📱 Currently developing iPhone apps. See my latest <a href="https://github.com/abhijatyagupta/newsApp-iOS">project</a>. 👀</li>
 </ul>
 
-⚡ Fact: Bears. Beets. Battlestar Galactica.
+⚡ Fact: Bears, Beets, Battlestar Galactica.
 
 <!--
 **abhijatyagupta/abhijatyagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
