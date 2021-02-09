@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://www.linkedin.com/in/abhijatyagupta/">Abhijatya</a>! 👋
+### Hey, I'm <a href="https://www.linkedin.com/in/abhijatyagupta/">Abhijatya</a>! 👋
 <ul>
   <li>🎓 I am a computer science undergrad.</li>
   <li>🔨 Looking forward to software development.</li>
